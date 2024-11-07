@@ -12,11 +12,13 @@
 
 .left-section {
   display: flex;
+  margin-right: 20px;
 }
 
 .hamburger-menu-icon {
   width: 25px;
   margin-right: 20px;
+  margin-left: 20px;
 }
 
 .youtube-logo-icon {
